@@ -1,0 +1,30 @@
+
+body {
+  background-color: #cd9d77;
+}
+hr {
+
+  border-style: dotted none none;
+  border-color: black;
+  border-width: 10px;
+  width: 40%;
+
+    }
+img {
+      width: 75%;
+    }
+table {
+  width: 80%;
+  border-bottom-width: thick;
+  border-bottom-style: solid;
+  border-bottom-color: black;
+  border-top-width: 0;
+  border-left-width: 0;
+  border-right-width: 0;
+}
+p {
+  font-size: 20px;
+  font-variant: small-caps;
+  font-family: serif;
+  color: white;
+}
